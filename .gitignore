@@ -1,0 +1,11 @@
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+data/*
+data2/*
+*.mp4
+run1/*
+run2/*
